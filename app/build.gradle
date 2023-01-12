@@ -14,7 +14,7 @@ android {
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.raiden.aoc_normal"
+        applicationId 'io.github.aoc_normal'
         minSdk 21
         targetSdk 33
         versionCode 1
