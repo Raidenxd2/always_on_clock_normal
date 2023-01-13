@@ -1,1 +1,1 @@
-An Always On Clock for Android.
+displays the date and time on your screen. thats all.
