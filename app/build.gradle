@@ -47,5 +47,5 @@ dependencies {
 }
 
 configurations.implementation {
-    exclude group: 'io.opencensus', module: 'jsr305'
+    exclude group: 'io.opencensus', module: 'ocjedis'
 }
