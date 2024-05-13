@@ -5,13 +5,9 @@ plugins {
 android {
     signingConfigs {
         release {
-            storeFile file('C:\\Users\\Owner\\user.keystore')
-            storePassword 'Chichi23#'
-            keyAlias 'AOC'
-            keyPassword 'Chichi23#'
         }
     }
-    compileSdk 33
+    compileSdk 34
 
     defaultConfig {
         applicationId 'io.github.aoc_normal'
